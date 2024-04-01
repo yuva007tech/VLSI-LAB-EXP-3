@@ -155,6 +155,7 @@ endmodule
 
 
 **Output Waveform**
+
 2-BIT MULTIPLEXER:
 
 ![2bit mul](https://github.com/yuva007tech/VLSI-LAB-EXP-3/assets/123287599/c1260902-736f-429c-9760-e4fc4f1aa1ae)
