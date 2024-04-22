@@ -175,5 +175,5 @@ endmodule
 
 **Result**
 
-
+Thus the Simulation and Implementation of Multiplier is verified
 
