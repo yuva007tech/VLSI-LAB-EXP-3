@@ -166,10 +166,12 @@ endmodule
 2-BIT MULTIPLEXER:
 
 ![2bit mul](https://github.com/yuva007tech/VLSI-LAB-EXP-3/assets/123287599/c1260902-736f-429c-9760-e4fc4f1aa1ae)
+<img width="760" alt="324393749-8af87b44-d89d-44f6-86aa-361176fd9c0d" src="https://github.com/yuva007tech/VLSI-LAB-EXP-3/assets/123287599/1da1e20c-5201-4725-b59a-a465d7e11300">
 
 4-BIT MULTIPLEXER:
 
 ![4 BIT MULTIPLEXER](https://github.com/yuva007tech/VLSI-LAB-EXP-3/assets/123287599/0009db3d-8194-4b72-b77f-147fc70ebab7)
+<img width="758" alt="324393789-5ee9e9e8-2916-4e4c-beb6-7eb3a04a8868" src="https://github.com/yuva007tech/VLSI-LAB-EXP-3/assets/123287599/510ef86f-1833-4e2c-a417-32be4d38f44e">
 
 
 
